@@ -8,7 +8,7 @@ ML model to automate the loan eligibility process (real-time)  based on customer
         1. Categorical Features
         2. Numerical Features
         3. Insights
-    3. Bivariate Analysis
+    2. Bivariate Analysis
         1. Categorical Features vs Target Variable
         2. Numerical Features vs Target Variable
         3. Insights
