@@ -19,4 +19,7 @@ To automate this process, they have given a problem to identify the customer seg
     1. Missing Values Treatment
     2. Dropping Unecessary Columns
     3. Feature Encoding 
-4. Model
+4. Model Development
+    1. Splitting The Dataset
+    2. Logistic Regression
+    3. Logistic Regression with Stratified k-folds Cross-validation
