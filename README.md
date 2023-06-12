@@ -17,7 +17,7 @@ To automate this process, they have given a problem to identify the customer seg
         3. Insights
 3. Data Preprocessing
     1. Missing Values Treatment
-    2. Dropping Unecessary Columns
+    2. Dropping Unnecessary  Columns
     3. Feature Encoding 
 4. Model Development
     1. Splitting The Dataset
