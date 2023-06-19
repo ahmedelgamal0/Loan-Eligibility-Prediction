@@ -23,3 +23,7 @@ To automate this process, they have given a problem to identify the customer seg
     1. Splitting The Dataset
     2. Logistic Regression
     3. Logistic Regression with Stratified k-folds Cross-validation
+    4. Decision Tree
+    5. Random Forest
+5. Deploy the Model
+6. Resources    
